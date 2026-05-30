@@ -1,1 +1,17 @@
 
+[
+  {
+    "id": 202,
+    "title": "ബുദ്ധിമാനായ കുരങ്ങനും മുതലയും",
+    "author": "Panchatantra",
+    "cover_color": "#065f46",
+    "illustration_file": "https://storage.mellowtales.com/thumbnails/clever-monkey.webp",
+    "content_file": "https://raw.githubusercontent.com/abdulkhaderp/mellow-tales-metadata/main/story/bedtime/clever-monkey.json",
+    "category": "bedtime",
+    "language": "ml",
+    "age_group": "SK",
+    "is_popular": 1,
+    "keywords": "clever monkey, crocodile, friendship, smart monkey, river, monkey heart, moral story, bedtime story, buddhimanaya kurangan, muthala, kuranganum muthalayum, naaval pazham, kerala folk tale",
+    "audio_file_path": ""
+  }
+]
